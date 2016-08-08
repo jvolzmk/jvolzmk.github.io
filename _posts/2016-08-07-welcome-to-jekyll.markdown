@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to AP CSP!"
 date:   2016-08-07 19:18:04 -0400
 categories: jekyll update
 ---
